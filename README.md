@@ -1,12 +1,30 @@
 # Non fare cazzate: chiedi a Super Squalo
 
-Una skill per Claude, tutta in italiano. Stai per comprare, firmare, mandare un
-messaggio o lasciare il lavoro? Prima chiedi a Super Squalo. In trenta secondi
-ti dice se stai facendo una cazzata.
+**Super Squalo ha 14 esperti. Gli fai una domanda, lui sceglie i 3 giusti, li
+sente, cerca in rete e ti dà un'analisi al volo.** In trenta secondi sai se stai
+facendo una cazzata.
 
-Dietro le quinte Super Squalo sente tre esperti veri del campo e cerca in rete
-come stanno le cose oggi. Poi ti risponde lui, schietto e terra terra, come un
-amico al bar.
+È una skill per Claude, tutta in italiano. Stai per comprare, firmare, mandare
+un messaggio o lasciare il lavoro? Prima chiedi a Super Squalo. Ti risponde
+lui, schietto e terra terra, come un amico al bar.
+
+## I 14 esperti
+
+1. **Il consulente finanziario:** risparmi, investimenti, debiti, rate.
+2. **Il commercialista:** tasse, partita IVA, cosa ti resta in tasca.
+3. **L'avvocato:** contratti, clausole, diritti.
+4. **Il consulente del lavoro:** dimissioni, aumenti, offerte di lavoro.
+5. **L'esperto di truffe e sicurezza online:** offerte troppo belle, link
+   strani, dati personali.
+6. **L'esperto di tecnologia e videogiochi:** PC, console, telefoni, giochi.
+7. **L'esperto dei diritti dei consumatori:** garanzie, resi, abbonamenti.
+8. **Il meccanico:** auto e moto, nuove o usate.
+9. **L'agente immobiliare:** casa, affitti, mutui.
+10. **Lo psicologo:** relazioni, messaggi delicati, scelte di pancia.
+11. **L'esperto di comunicazione:** email e messaggi, il tono giusto.
+12. **L'esperto di YouTube e social:** video, post, reputazione online.
+13. **Il consulente d'impresa:** idee di business, aprire un'attività.
+14. **L'esperto di viaggi:** vacanze, voli, prenotazioni.
 
 ## Come risponde
 
@@ -29,6 +47,9 @@ Esempio:
 > **Se proprio lo vuoi fare, almeno fai questo:**
 > 1. Mettici solo quello che puoi perdere senza piangere.
 > 2. Tieni da parte almeno sei mesi di spese.
+>
+> *Ho sentito il consulente finanziario, l'esperto di truffe e sicurezza online
+> e il commercialista.*
 >
 > *Questo è un parere veloce per evitarti le cazzate grosse. Poi decidi con la
 > tua testa.*
